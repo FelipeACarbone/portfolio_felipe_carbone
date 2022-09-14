@@ -26,7 +26,7 @@ Veja os meus projetos:
 
 * **"Data Science: análises para saúde e medicina"** : https://bit.ly/3DjShXY
 
-* **"Data Visualization: explorando com Seaborn"** :
+* **"Data Visualization: explorando com Seaborn"** : https://bit.ly/3qBDobN
 
 * **"Estatística com Python parte 1: frequências e medidas"** : 
 
