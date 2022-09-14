@@ -36,7 +36,7 @@ Veja os meus projetos:
 
 * **"Estatística com Python parte 2: probabilidade e amostragem"** :
 
-* **"Pandas: formatos diferentes de entrada e saída (IO)"** :
+* **"Pandas: formatos diferentes de entrada e saída (IO)"** : https://bit.ly/3U99E3C
 
 * **"Python Pandas: técnicas avançadas"** :
 
