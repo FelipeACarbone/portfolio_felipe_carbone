@@ -24,7 +24,7 @@ Veja os meus projetos:
 
 * **"Data Science: análise de series temporais"** :  https://bit.ly/3BFooQv
 
-* **"Data Science: análises para saúde e medicina"** :
+* **"Data Science: análises para saúde e medicina"** : https://bit.ly/3DjShXY
 
 * **"Data Visualization: explorando com Seaborn"** :
 
