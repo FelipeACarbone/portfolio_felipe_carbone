@@ -38,7 +38,7 @@ Veja os meus projetos:
 
 * **"Pandas: formatos diferentes de entrada e saída (IO)"** : https://bit.ly/3U99E3C
 
-* **"Python Pandas: técnicas avançadas"** :
+* **"Python Pandas: técnicas avançadas"** : https://bit.ly/3Le8eRf
 
 * **"Python para Data Science: Funções, Pacotes e Pandas"** :
 
