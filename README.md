@@ -22,7 +22,7 @@ Formado em Administração de Empresas na PUC-SP. -Análise de Dados, Python, My
 ## Projetos:
 Veja os meus projetos:
 
-* **"Data Science: análise de series temporais"** :
+* **"Data Science: análise de series temporais"** :  https://bit.ly/3BFooQv
 
 * **"Data Science: análises para saúde e medicina"** :
 
