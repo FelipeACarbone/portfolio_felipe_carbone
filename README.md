@@ -42,7 +42,7 @@ Veja os meus projetos:
 
 * **"Python para Data Science: Funções, Pacotes e Pandas"** : https://bit.ly/3R16wEp
 
-* **"Data Science: testes estatísticos com Python"** :
+* **"Data Science: testes estatísticos com Python"** : https://bit.ly/3qGpJQT
 
 * **"Data Science: análise e visualização de dados"** :
 
