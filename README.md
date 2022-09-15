@@ -40,7 +40,7 @@ Veja os meus projetos:
 
 * **"Python Pandas: técnicas avançadas"** : https://bit.ly/3Le8eRf
 
-* **"Python para Data Science: Funções, Pacotes e Pandas"** :
+* **"Python para Data Science: Funções, Pacotes e Pandas"** : https://bit.ly/3R16wEp
 
 * **"Data Science: testes estatísticos com Python"** :
 
