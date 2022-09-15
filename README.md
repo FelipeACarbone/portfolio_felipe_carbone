@@ -48,7 +48,7 @@ Veja os meus projetos:
 
 * **“Análise de experimentos: testes, mapas de cores e análises dos dados”** : https://bit.ly/3qHIX8B
 
-* **"Data Visualization: criação de gráficos com o Matplotlib"** :
+* **"Data Visualization: criação de gráficos com o Matplotlib"** : https://bit.ly/3UbtM5b
 
 * **"Python Pandas: tratando e analisando dados"** :
 
