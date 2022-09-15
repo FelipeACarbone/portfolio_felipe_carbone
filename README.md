@@ -46,7 +46,7 @@ Veja os meus projetos:
 
 * **"Data Science: análise e visualização de dados"** : https://bit.ly/3QLTrOU
 
-* **“Análise de experimentos: testes, mapas de cores e análises dos dados”** :
+* **“Análise de experimentos: testes, mapas de cores e análises dos dados”** : https://bit.ly/3qHIX8B
 
 * **"Data Visualization: criação de gráficos com o Matplotlib"** :
 
