@@ -44,7 +44,7 @@ Veja os meus projetos:
 
 * **"Data Science: testes estatísticos com Python"** : https://bit.ly/3qGpJQT
 
-* **"Data Science: análise e visualização de dados"** :
+* **"Data Science: análise e visualização de dados"** : https://bit.ly/3QLTrOU
 
 * **“Análise de experimentos: testes, mapas de cores e análises dos dados”** :
 
