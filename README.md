@@ -50,7 +50,7 @@ Veja os meus projetos:
 
 * **"Data Visualization: criação de gráficos com o Matplotlib"** : https://bit.ly/3UbtM5b
 
-* **"Python Pandas: tratando e analisando dados"** :
+* **"Python Pandas: tratando e analisando dados"** : https://bit.ly/3LhBJSt
 
 * **"Regressão Linear: técnicas avançadas de modelagem"** :
 
