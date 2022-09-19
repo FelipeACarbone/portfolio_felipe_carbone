@@ -32,9 +32,9 @@ Veja os meus projetos:
 
 * **"Estatística com Python parte 1: frequências e medidas - Projeto"** : https://bit.ly/3QXu9NX
 
-* **"Estatística com Python parte 2: probabilidade e amostragem"** :
+* **"Estatística com Python parte 2: probabilidade e amostragem"** : https://bit.ly/3RUo2Lr
 
-* **"Estatística com Python parte 2: probabilidade e amostragem - Projeto"** :
+* **"Estatística com Python parte 2: probabilidade e amostragem - Projeto"** : https://bit.ly/3DxA7lD
 
 * **"Pandas: formatos diferentes de entrada e saída (IO)"** : https://bit.ly/3U99E3C
 
