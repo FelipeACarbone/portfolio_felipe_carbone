@@ -54,7 +54,7 @@ Veja os meus projetos:
 
 * **"Regressão Linear: técnicas avançadas de modelagem"** : https://bit.ly/3Sb2xWs
 
-* **"Regressão Linear: testando relações e prevendo resultados"** :
+* **"Regressão Linear: testando relações e prevendo resultados"** : https://bit.ly/3LoPxdP
 
 * **"Scraping com Python: coleta de dados na web"** : 
 
