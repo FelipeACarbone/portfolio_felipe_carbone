@@ -30,11 +30,11 @@ Veja os meus projetos:
 
 * **"Estatística com Python parte 1: frequências e medidas"** : 
 
-* **"Estatística com Python parte 1: frequências e medidas"** :
+* **"Estatística com Python parte 1: frequências e medidas - Projeto"** :
 
 * **"Estatística com Python parte 2: probabilidade e amostragem"** :
 
-* **"Estatística com Python parte 2: probabilidade e amostragem"** :
+* **"Estatística com Python parte 2: probabilidade e amostragem - Projeto"** :
 
 * **"Pandas: formatos diferentes de entrada e saída (IO)"** : https://bit.ly/3U99E3C
 
