@@ -52,7 +52,7 @@ Veja os meus projetos:
 
 * **"Python Pandas: tratando e analisando dados"** : https://bit.ly/3LhBJSt
 
-* **"Regressão Linear: técnicas avançadas de modelagem"** :
+* **"Regressão Linear: técnicas avançadas de modelagem"** : https://bit.ly/3Sb2xWs
 
 * **"Regressão Linear: testando relações e prevendo resultados"** :
 
