@@ -28,9 +28,9 @@ Veja os meus projetos:
 
 * **"Data Visualization: explorando com Seaborn"** : https://bit.ly/3qBDobN
 
-* **"Estatística com Python parte 1: frequências e medidas"** : 
+* **"Estatística com Python parte 1: frequências e medidas"** : https://bit.ly/3DBWnux
 
-* **"Estatística com Python parte 1: frequências e medidas - Projeto"** :
+* **"Estatística com Python parte 1: frequências e medidas - Projeto"** : https://bit.ly/3QXu9NX
 
 * **"Estatística com Python parte 2: probabilidade e amostragem"** :
 
