@@ -56,7 +56,7 @@ Veja os meus projetos:
 
 * **"Regressão Linear: testando relações e prevendo resultados"** : https://bit.ly/3LoPxdP
 
-* **"Scraping com Python: coleta de dados na web"** : 
+* **"Scraping com Python: coleta de dados na web"** : https://bit.ly/3drZdrl
 
 
 
