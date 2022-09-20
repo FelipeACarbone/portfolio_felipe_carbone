@@ -22,7 +22,7 @@ Formado em Administração de Empresas na PUC-SP. -Análise de Dados, Python, My
 ## Projetos:
 Veja os meus projetos:
 
-* **"Data Science: análise de series temporais"** :  https://bit.ly/3BFooQv
+* **[Data Science: análise de series temporais]** (https://github.com/FelipeACarbone/data_science_analises_series_temporais/blob/main/_Data%20Science_%20an%C3%A1lise%20de%20series%20temporais_1.ipynb)  
 
 * **"Data Science: análises para saúde e medicina"** : https://bit.ly/3DjShXY
 
