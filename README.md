@@ -22,6 +22,14 @@ Formado em Administração de Empresas na PUC-SP. -Análise de Dados, Python, My
 ## Projetos:
 Veja os meus projetos:
 
+[Python Pandas: tratando e analisando dados](https://github.com/FelipeACarbone/python_pandas_tratando_dados)
+
+[Regressão Linear: técnicas avançadas de modelagem](https://github.com/FelipeACarbone/regressao_linear_machine_learn/blob/main/regressao_linear.ipynb)
+
+[Regressão Linear: testando relações e prevendo resultados](https://github.com/FelipeACarbone/regressao_linear_machine_learn_2/blob/main/regressao_linear_2.ipynb)
+
+[Scraping com Python: coleta de dados na web](https://github.com/FelipeACarbone/web_scraping/blob/main/web_scraping.ipynb)
+
 [Data Science: análise de series temporais](https://github.com/FelipeACarbone/data_science_analises_series_temporais/blob/main/_Data%20Science_%20an%C3%A1lise%20de%20series%20temporais_1.ipynb)  
 
 [Data Science: análises para saúde e medicina](https://github.com/FelipeACarbone/data_science_analise_saude_medicina/blob/main/Data%20Science_%20an%C3%A1lises%20para%20sa%C3%BAde%20e%20medicina2.ipynb)
@@ -50,13 +58,7 @@ Veja os meus projetos:
 
 [Data Visualization: criação de gráficos com o Matplotlib](https://github.com/FelipeACarbone/matplot_visualizacoes_graficas/blob/main/Matplot-Aula1.ipynb)
 
-[Python Pandas: tratando e analisando dados](https://github.com/FelipeACarbone/python_pandas_tratando_dados)
 
-[Regressão Linear: técnicas avançadas de modelagem](https://github.com/FelipeACarbone/regressao_linear_machine_learn/blob/main/regressao_linear.ipynb)
-
-[Regressão Linear: testando relações e prevendo resultados](https://github.com/FelipeACarbone/regressao_linear_machine_learn_2/blob/main/regressao_linear_2.ipynb)
-
-[Scraping com Python: coleta de dados na web](https://github.com/FelipeACarbone/web_scraping/blob/main/web_scraping.ipynb)
 
 
 
